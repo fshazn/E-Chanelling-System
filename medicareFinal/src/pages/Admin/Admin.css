@@ -1,0 +1,82 @@
+.box{
+    width: 460px;
+    background-color: #e3f2fd;
+    height: 400px;
+    margin-top: 2rem;
+    align-items: center;
+    border: 10px;
+    border-radius: 5px;
+    border-color: #0277bd;
+}
+.listItem{
+    color:#0277bd;
+}
+.itemIcon{
+    color: #0277bd;
+    
+}
+.itemButton{
+    background-color: azure;
+}
+.paper{
+    padding: 10px;
+    margin: 1rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.doctorcell{
+    color: #1565c0;
+}
+.textfield1{
+    width: 8rem;
+    
+}
+.textfield2{
+    width: 25rem;
+    
+}
+.paper2{
+    padding: 5rem;
+    margin-top: 2rem;
+    width: 30rem;
+    justify-content: center;
+    border-radius: 15px;
+}
+/*for admin doctors page*/
+.adddoctorpaper{
+    padding: 10px;
+    width: 15rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+/*for admin Add New Doctor*/
+.addnewdoctor{
+    padding:2rem;
+    margin-top: 5rem;
+    width: 50rem;
+}
+.adddoctortextfield{
+    width: 20rem;
+}
+/*for Admin manage patients*/
+.patientpaper{
+    padding: 10px;
+    margin: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+/*for Admin manage medicines*/
+.medicinepaper{
+    padding: 10px;  
+    width: 50rem;
+    margin-right: 2rem;   
+   
+}
+
+.addmedicinepaper{
+    padding: 10px;
+    width: 20rem;
+    align-content: center;
+    align-items: center;
+    height: 22rem;
+}

@@ -1,0 +1,28 @@
+.schedulecell{
+    font-size: 20;
+    font-weight: bold;
+    color: darkgreen;
+}
+.apdTextField{
+    size: 50px;
+    color: darkslategrey;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tblcell{
+    font-size: 20;
+    font-weight: bold;
+}
+.prescriptionPaper{
+    width: 50rem;
+    margin-top: 2rem;
+   
+}
+/* prescription 2 css */
+.prescription2Paper{
+    margin-top: 5rem;
+    width: 60rem;
+    height: 40rem;
+    padding: 2rem;
+    
+}
